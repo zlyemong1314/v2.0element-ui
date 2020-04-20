@@ -1,7 +1,7 @@
 [	
 	{
 		"canvasId":"bar",
-		"name":"柱状图",
+		"name":"之二和医德",
 		"data":[
 			{
 				"name":"2012",
@@ -24,7 +24,7 @@
 			}
 		],
 		"options":{
-			"title":"**商城近几年广告投入费用",
+			"title":"ajkshdkljhljkh近几年广告投入费用",
 			"bgColor":"#009688",
 			"titleColor":"#fff",
 			"contentColor":"#cc0632",
